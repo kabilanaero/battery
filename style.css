@@ -35,7 +35,7 @@ col{
     color:red;
     font-family: sans-serif;
 }
- @media(min-width:320px){
+ @media(max-width:690px){
     .container{
     width:90%;
     margin:0 auto;
